@@ -115,6 +115,7 @@ class Messagerie:
 
     
 
+# Tests the functionality of above methods:
 if __name__== "__main__":
     m = Messagerie()
     s1 = SMS("555", "Salut")
